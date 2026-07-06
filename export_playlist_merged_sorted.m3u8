@@ -1,0 +1,738 @@
+#EXTM3U tvg-url="https://www.open-epg.com/files/unitedstates7.xml.gz https://www.open-epg.com/files/unitedkingdom.xml.gz"
+
+## UK CHANNELS ##
+
+#EXTINF:-1 tvg-name="UK: 4 SEVEN" group-title="UK",UK: 4 SEVEN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41041.ts
+#EXTINF:-1 tvg-name="UK: 5 Action" group-title="UK",UK: 5 Action
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41040.ts
+#EXTINF:-1 tvg-name="UK: 5 USA" group-title="UK",UK: 5 USA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27782.ts
+#EXTINF:-1 tvg-name="UK: 5Star" group-title="UK",UK: 5Star
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27781.ts
+#EXTINF:-1 tvg-name="UK: Al Jazeera" group-title="UK",UK: Al Jazeera
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49192.ts
+#EXTINF:-1 tvg-name="UK: ALIBI" group-title="UK",UK: ALIBI
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19430.ts
+#EXTINF:-1 tvg-name="UK: ANIMAL PLANET UK" group-title="UK",UK: ANIMAL PLANET UK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19412.ts
+#EXTINF:-1 tvg-name="UK: BBC 1 NORTHERN IRELAND HD" group-title="UK",UK: BBC 1 NORTHERN IRELAND HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27778.ts
+#EXTINF:-1 tvg-name="UK: BBC 3 HD" group-title="UK",UK: BBC 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50256.ts
+#EXTINF:-1 tvg-name="UK: BBC ALBA" group-title="UK",UK: BBC ALBA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27777.ts
+#EXTINF:-1 tvg-name="UK: BBC CBBC HD" group-title="UK",UK: BBC CBBC HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27776.ts
+#EXTINF:-1 tvg-name="UK: BBC FOUR" group-title="UK",UK: BBC FOUR
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27738.ts
+#EXTINF:-1 tvg-name="UK: BBC HD 1" group-title="UK",UK: BBC HD 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27775.ts
+#EXTINF:-1 tvg-name="UK: BBC HD 2" group-title="UK",UK: BBC HD 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27774.ts
+#EXTINF:-1 tvg-name="UK: BBC HD 4 / CBEEBIES HD" group-title="UK",UK: BBC HD 4 / CBEEBIES HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27773.ts
+#EXTINF:-1 tvg-name="UK: BBC NEWS" group-title="UK",UK: BBC NEWS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21260.ts
+#EXTINF:-1 tvg-name="UK: BBC NEWS HD" group-title="UK",UK: BBC NEWS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27772.ts
+#EXTINF:-1 tvg-name="UK: BBC ONE" group-title="UK",UK: BBC ONE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19460.ts
+#EXTINF:-1 tvg-name="UK: BBC ONE NORTH WEST" group-title="UK",UK: BBC ONE NORTH WEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48224.ts
+#EXTINF:-1 tvg-name="UK: BBC ONE SCOTLAND" group-title="UK",UK: BBC ONE SCOTLAND
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61841.ts
+#EXTINF:-1 tvg-name="UK: BBC ONE WALES" group-title="UK",UK: BBC ONE WALES
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48226.ts
+#EXTINF:-1 tvg-name="UK: BBC TWO" group-title="UK",UK: BBC TWO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19457.ts
+#EXTINF:-1 tvg-name="UK: BBC TWO WALES" group-title="UK",UK: BBC TWO WALES
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48227.ts
+#EXTINF:-1 tvg-name="UK: BLAZE" group-title="UK",UK: BLAZE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19449.ts
+#EXTINF:-1 tvg-name="UK: BOOMERANG" group-title="UK",UK: BOOMERANG
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27769.ts
+#EXTINF:-1 tvg-name="UK: CHALLENGE" group-title="UK",UK: CHALLENGE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27766.ts
+#EXTINF:-1 tvg-name="UK: CHANNEL 4" group-title="UK",UK: CHANNEL 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19455.ts
+#EXTINF:-1 tvg-name="UK: CHANNEL 5" group-title="UK",UK: CHANNEL 5
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19454.ts
+#EXTINF:-1 tvg-name="UK: CNBC" group-title="UK",UK: CNBC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58842.ts
+#EXTINF:-1 tvg-name="UK: CNN HD" group-title="UK",UK: CNN HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27761.ts
+#EXTINF:-1 tvg-name="UK: COMEDY CENTRAL EXTRA" group-title="UK",UK: COMEDY CENTRAL EXTRA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27760.ts
+#EXTINF:-1 tvg-name="UK: COMEDY CENTRAL HD" group-title="UK",UK: COMEDY CENTRAL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27759.ts
+#EXTINF:-1 tvg-name="UK: CRIME INVESTIGATION" group-title="UK",UK: CRIME INVESTIGATION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27758.ts
+#EXTINF:-1 tvg-name="UK: DAVE" group-title="UK",UK: DAVE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19434.ts
+#EXTINF:-1 tvg-name="UK: Discovery Channel" group-title="UK",UK: Discovery Channel
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19528.ts
+#EXTINF:-1 tvg-name="UK: DISCOVERY HISTORY" group-title="UK",UK: DISCOVERY HISTORY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14156.ts
+#EXTINF:-1 tvg-name="UK: DISCOVERY SCIENCE" group-title="UK",UK: DISCOVERY SCIENCE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27755.ts
+#EXTINF:-1 tvg-name="UK: Discovery Turbo" group-title="UK",UK: Discovery Turbo
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19526.ts
+#EXTINF:-1 tvg-name="UK: DMAX" group-title="UK",UK: DMAX
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19437.ts
+#EXTINF:-1 tvg-name="UK: E4" group-title="UK",UK: E4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19439.ts
+#EXTINF:-1 tvg-name="UK: E4 HD" group-title="UK",UK: E4 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27754.ts
+#EXTINF:-1 tvg-name="UK: EDEN" group-title="UK",UK: EDEN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27667.ts
+#EXTINF:-1 tvg-name="UK: FILM 4 HD" group-title="UK",UK: FILM 4 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27292.ts
+#EXTINF:-1 tvg-name="UK: FIVE STAR" group-title="UK",UK: FIVE STAR
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16617.ts
+#EXTINF:-1 tvg-name="UK: FIVE USA" group-title="UK",UK: FIVE USA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19435.ts
+#EXTINF:-1 tvg-name="UK: Food Network UK" group-title="UK",UK: Food Network UK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19415.ts
+#EXTINF:-1 tvg-name="UK: GB News" group-title="UK",UK: GB News
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50118.ts
+#EXTINF:-1 tvg-name="UK: GOLD" group-title="UK",UK: GOLD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19433.ts
+#EXTINF:-1 tvg-name="UK: Great! TV" group-title="UK",UK: Great! TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27700.ts
+#EXTINF:-1 tvg-name="UK: INVESTIGATION DISCOVERY (ID)" group-title="UK",UK: INVESTIGATION DISCOVERY (ID)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27743.ts
+#EXTINF:-1 tvg-name="UK: ITV 1" group-title="UK",UK: ITV 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19456.ts
+#EXTINF:-1 tvg-name="UK: ITV 2" group-title="UK",UK: ITV 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19445.ts
+#EXTINF:-1 tvg-name="UK: ITV 3" group-title="UK",UK: ITV 3
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19444.ts
+#EXTINF:-1 tvg-name="UK: ITV 4" group-title="UK",UK: ITV 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19443.ts
+#EXTINF:-1 tvg-name="UK: ITV Quiz" group-title="UK",UK: ITV Quiz
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19442.ts
+#EXTINF:-1 tvg-name="UK: LEGEND" group-title="UK",UK: LEGEND
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49321.ts
+#EXTINF:-1 tvg-name="UK: Legend Xtra" group-title="UK",UK: Legend Xtra
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14131.ts
+#EXTINF:-1 tvg-name="UK: MORE4" group-title="UK",UK: MORE4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19440.ts
+#EXTINF:-1 tvg-name="UK: MTV HD" group-title="UK",UK: MTV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27733.ts
+#EXTINF:-1 tvg-name="UK: NAT GEO WILD HD" group-title="UK",UK: NAT GEO WILD HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14147.ts
+#EXTINF:-1 tvg-name="UK: National Geographic" group-title="UK",UK: National Geographic
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19554.ts
+#EXTINF:-1 tvg-name="UK: PICK CHANNEL" group-title="UK",UK: PICK CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20622.ts
+#EXTINF:-1 tvg-name="UK: QUEST" group-title="UK",UK: QUEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27718.ts
+#EXTINF:-1 tvg-name="UK: REALLY" group-title="UK",UK: REALLY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27717.ts
+#EXTINF:-1 tvg-name="UK: RTE 1" group-title="UK",UK: RTE 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20639.ts
+#EXTINF:-1 tvg-name="UK: RTE 2" group-title="UK",UK: RTE 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20640.ts
+#EXTINF:-1 tvg-name="UK: RTE JUNIOR" group-title="UK",UK: RTE JUNIOR
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20641.ts
+#EXTINF:-1 tvg-name="UK: SKY ARTS" group-title="UK",UK: SKY ARTS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19446.ts
+#EXTINF:-1 tvg-name="UK: SKY ATLANTIC" group-title="UK",UK: SKY ATLANTIC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19447.ts
+#EXTINF:-1 tvg-name="UK: SKY COMEDY" group-title="UK",UK: SKY COMEDY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19432.ts
+#EXTINF:-1 tvg-name="UK: SKY CRIME" group-title="UK",UK: SKY CRIME
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49034.ts
+#EXTINF:-1 tvg-name="UK: SKY DOCUMENTARIES" group-title="UK",UK: SKY DOCUMENTARIES
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49188.ts
+#EXTINF:-1 tvg-name="UK: Sky HISTORY 2 HD" group-title="UK",UK: Sky HISTORY 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27746.ts
+#EXTINF:-1 tvg-name="UK: Sky HISTORY UK" group-title="UK",UK: Sky HISTORY UK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19417.ts
+#EXTINF:-1 tvg-name="UK: SKY KIDS HD" group-title="UK",UK: SKY KIDS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57527.ts
+#EXTINF:-1 tvg-name="UK: SKY MAX" group-title="UK",UK: SKY MAX
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50150.ts
+#EXTINF:-1 tvg-name="UK: SKY NATURE" group-title="UK",UK: SKY NATURE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49187.ts
+#EXTINF:-1 tvg-name="UK: SKY NEWS" group-title="UK",UK: SKY NEWS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21261.ts
+#EXTINF:-1 tvg-name="UK: SKY ONE" group-title="UK",UK: SKY ONE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61839.ts
+#EXTINF:-1 tvg-name="UK: SKY SHOWCASE" group-title="UK",UK: SKY SHOWCASE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19452.ts
+#EXTINF:-1 tvg-name="UK: SKY WITNESS" group-title="UK",UK: SKY WITNESS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41039.ts
+#EXTINF:-1 tvg-name="UK: STV HD" group-title="UK",UK: STV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27709.ts
+#EXTINF:-1 tvg-name="UK: SYFY" group-title="UK",UK: SYFY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58841.ts
+#EXTINF:-1 tvg-name="UK: SYFY HD" group-title="UK",UK: SYFY HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27708.ts
+#EXTINF:-1 tvg-name="UK: TALKTV" group-title="UK",UK: TALKTV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50411.ts
+#EXTINF:-1 tvg-name="UK: TG4" group-title="UK",UK: TG4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32134.ts
+#EXTINF:-1 tvg-name="UK: TLC HD" group-title="UK",UK: TLC HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27704.ts
+#EXTINF:-1 tvg-name="UK: TRAVEL XP" group-title="UK",UK: TRAVEL XP
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27703.ts
+#EXTINF:-1 tvg-name="UK: True Crime" group-title="UK",UK: True Crime
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14176.ts
+#EXTINF:-1 tvg-name="UK: True Crime +1" group-title="UK",UK: True Crime +1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27767.ts
+#EXTINF:-1 tvg-name="UK: True Crime Xtra" group-title="UK",UK: True Crime Xtra
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14177.ts
+#EXTINF:-1 tvg-name="UK: UTV" group-title="UK",UK: UTV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19964.ts
+#EXTINF:-1 tvg-name="UK: VIRGIN MEDIA ONE" group-title="UK",UK: VIRGIN MEDIA ONE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32135.ts
+#EXTINF:-1 tvg-name="UK: VIRGIN MEDIA THREE" group-title="UK",UK: VIRGIN MEDIA THREE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50257.ts
+#EXTINF:-1 tvg-name="UK: VIRGIN MEDIA TWO" group-title="UK",UK: VIRGIN MEDIA TWO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27693.ts
+#EXTINF:-1 tvg-name="UK: Watch HD" group-title="UK",UK: Watch HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27694.ts
+#EXTINF:-1 tvg-name="UK: YESTERDAY" group-title="UK",UK: YESTERDAY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50132.ts
+#EXTINF:-1 tvg-name="UK: YESTERDAY+1" group-title="UK",UK: YESTERDAY+1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50133.ts
+
+## USA CHANNELS ##
+
+#EXTINF:-1 tvg-name="USA: A & E" group-title="USA",USA: A & E
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14146.ts
+#EXTINF:-1 tvg-name="USA: A & E FHD" group-title="USA",USA: A & E FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32944.ts
+#EXTINF:-1 tvg-name="USA: ABC EAST HD" group-title="USA",USA: ABC EAST HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19330.ts
+#EXTINF:-1 tvg-name="USA: ABC NEWS HD" group-title="USA",USA: ABC NEWS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19258.ts
+#EXTINF:-1 tvg-name="USA: ABC NY" group-title="USA",USA: ABC NY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29891.ts
+#EXTINF:-1 tvg-name="USA: ABC WEST" group-title="USA",USA: ABC WEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23336.ts
+#EXTINF:-1 tvg-name="USA: AFN Family" group-title="USA",USA: AFN Family
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59275.ts
+#EXTINF:-1 tvg-name="USA: AFN Movie" group-title="USA",USA: AFN Movie
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59276.ts
+#EXTINF:-1 tvg-name="USA: AFN News" group-title="USA",USA: AFN News
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59278.ts
+#EXTINF:-1 tvg-name="USA: AFN Prime Atlantic" group-title="USA",USA: AFN Prime Atlantic
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59271.ts
+#EXTINF:-1 tvg-name="USA: AFN Prime Pacific" group-title="USA",USA: AFN Prime Pacific
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59272.ts
+#EXTINF:-1 tvg-name="USA: AFN Spectrum" group-title="USA",USA: AFN Spectrum
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59277.ts
+#EXTINF:-1 tvg-name="USA: AFN Sports" group-title="USA",USA: AFN Sports
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59274.ts
+#EXTINF:-1 tvg-name="USA: AFN Sports 2" group-title="USA",USA: AFN Sports 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59273.ts
+#EXTINF:-1 tvg-name="USA: AFRICA CHANNEL" group-title="USA",USA: AFRICA CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49897.ts
+#EXTINF:-1 tvg-name="USA: AFRO" group-title="USA",USA: AFRO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49898.ts
+#EXTINF:-1 tvg-name="USA: Al Jazeera" group-title="USA",USA: Al Jazeera
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49191.ts
+#EXTINF:-1 tvg-name="USA: AMC" group-title="USA",USA: AMC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14144.ts
+#EXTINF:-1 tvg-name="USA: AMC TRHILLERS" group-title="USA",USA: AMC TRHILLERS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61731.ts
+#EXTINF:-1 tvg-name="USA: AMERICAN HEROES CHANNEL" group-title="USA",USA: AMERICAN HEROES CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22430.ts
+#EXTINF:-1 tvg-name="USA: ANIMAL PLANET" group-title="USA",USA: ANIMAL PLANET
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14149.ts
+#EXTINF:-1 tvg-name="USA: ANTENNA TV" group-title="USA",USA: ANTENNA TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29889.ts
+#EXTINF:-1 tvg-name="USA: AWE CHANNEL" group-title="USA",USA: AWE CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39480.ts
+#EXTINF:-1 tvg-name="USA: AXS TV" group-title="USA",USA: AXS TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39524.ts
+#EXTINF:-1 tvg-name="USA: BBC AMERICA" group-title="USA",USA: BBC AMERICA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/25257.ts
+#EXTINF:-1 tvg-name="USA: BET FHD" group-title="USA",USA: BET FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14089.ts
+#EXTINF:-1 tvg-name="USA: BET HER" group-title="USA",USA: BET HER
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27923.ts
+#EXTINF:-1 tvg-name="USA: BLAZE TV" group-title="USA",USA: BLAZE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49032.ts
+#EXTINF:-1 tvg-name="USA: BLOOMBERG" group-title="USA",USA: BLOOMBERG
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19960.ts
+#EXTINF:-1 tvg-name="USA: BOOMERANG" group-title="USA",USA: BOOMERANG
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20174.ts
+#EXTINF:-1 tvg-name="USA: BOUNCE TV" group-title="USA",USA: BOUNCE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41308.ts
+#EXTINF:-1 tvg-name="USA: BRAVO" group-title="USA",USA: BRAVO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14179.ts
+#EXTINF:-1 tvg-name="USA: BUZZER" group-title="USA",USA: BUZZER
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21772.ts
+#EXTINF:-1 tvg-name="USA: BYU TV" group-title="USA",USA: BYU TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49900.ts
+#EXTINF:-1 tvg-name="USA: C-SPAN" group-title="USA",USA: C-SPAN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/42671.ts
+#EXTINF:-1 tvg-name="USA: C-SPAN 2" group-title="USA",USA: C-SPAN 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/42670.ts
+#EXTINF:-1 tvg-name="USA: C-SPAN3" group-title="USA",USA: C-SPAN3
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61845.ts
+#EXTINF:-1 tvg-name="USA: CARTOON NETWORK" group-title="USA",USA: CARTOON NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14103.ts
+#EXTINF:-1 tvg-name="USA: CATCHY COMEDY" group-title="USA",USA: CATCHY COMEDY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49901.ts
+#EXTINF:-1 tvg-name="USA: CBS EAST" group-title="USA",USA: CBS EAST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32138.ts
+#EXTINF:-1 tvg-name="USA: CBS NY FHD" group-title="USA",USA: CBS NY FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23369.ts
+#EXTINF:-1 tvg-name="USA: CBS WEST" group-title="USA",USA: CBS WEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43096.ts
+#EXTINF:-1 tvg-name="USA: CBSN SPORTS NETWORK" group-title="USA",USA: CBSN SPORTS NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19573.ts
+#EXTINF:-1 tvg-name="USA: CLEO TV" group-title="USA",USA: CLEO TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48242.ts
+#EXTINF:-1 tvg-name="USA: CMT HD" group-title="USA",USA: CMT HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27294.ts
+#EXTINF:-1 tvg-name="USA: CNBC" group-title="USA",USA: CNBC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/18378.ts
+#EXTINF:-1 tvg-name="USA: CNN" group-title="USA",USA: CNN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14141.ts
+#EXTINF:-1 tvg-name="USA: CNN Low BW" group-title="USA",USA: CNN Low BW
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50403.ts
+#EXTINF:-1 tvg-name="USA: COMEDY CENTRAL" group-title="USA",USA: COMEDY CENTRAL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14140.ts
+#EXTINF:-1 tvg-name="USA: COMET TV" group-title="USA",USA: COMET TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39481.ts
+#EXTINF:-1 tvg-name="USA: COOKING CHANNEL HD" group-title="USA",USA: COOKING CHANNEL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19336.ts
+#EXTINF:-1 tvg-name="USA: COURT TV" group-title="USA",USA: COURT TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48245.ts
+#EXTINF:-1 tvg-name="USA: COZI TV" group-title="USA",USA: COZI TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20868.ts
+#EXTINF:-1 tvg-name="USA: CRIME AND INVESTIGATION" group-title="USA",USA: CRIME AND INVESTIGATION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14161.ts
+#EXTINF:-1 tvg-name="USA: Daystar" group-title="USA",USA: Daystar
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58936.ts
+#EXTINF:-1 tvg-name="USA: DESTINATION AMERICA" group-title="USA",USA: DESTINATION AMERICA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16491.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY CHANNEL FHD" group-title="USA",USA: DISCOVERY CHANNEL FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14158.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY CHANNEL HD" group-title="USA",USA: DISCOVERY CHANNEL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/28003.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY FAMILY" group-title="USA",USA: DISCOVERY FAMILY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23337.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY LIFE" group-title="USA",USA: DISCOVERY LIFE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22414.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY SCIENCE HD" group-title="USA",USA: DISCOVERY SCIENCE HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19262.ts
+#EXTINF:-1 tvg-name="USA: DISCOVERY TURBO" group-title="USA",USA: DISCOVERY TURBO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14153.ts
+#EXTINF:-1 tvg-name="USA: DOG TV" group-title="USA",USA: DOG TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32122.ts
+#EXTINF:-1 tvg-name="USA: DUST" group-title="USA",USA: DUST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49902.ts
+#EXTINF:-1 tvg-name="USA: E!" group-title="USA",USA: E!
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14175.ts
+#EXTINF:-1 tvg-name="USA: EarthxTV" group-title="USA",USA: EarthxTV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58934.ts
+#EXTINF:-1 tvg-name="USA: EL REY" group-title="USA",USA: EL REY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50131.ts
+#EXTINF:-1 tvg-name="USA: Family Movie Classics" group-title="USA",USA: Family Movie Classics
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58935.ts
+#EXTINF:-1 tvg-name="USA: FETV" group-title="USA",USA: FETV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59279.ts
+#EXTINF:-1 tvg-name="USA: FOOD NETWORK" group-title="USA",USA: FOOD NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14174.ts
+#EXTINF:-1 tvg-name="USA: FOX 11 WEST" group-title="USA",USA: FOX 11 WEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/47266.ts
+#EXTINF:-1 tvg-name="USA: FOX 5 HD" group-title="USA",USA: FOX 5 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/24489.ts
+#EXTINF:-1 tvg-name="USA: FOX 50" group-title="USA",USA: FOX 50
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19571.ts
+#EXTINF:-1 tvg-name="USA: FOX BUSINESS HD" group-title="USA",USA: FOX BUSINESS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19334.ts
+#EXTINF:-1 tvg-name="USA: FOX NEWS" group-title="USA",USA: FOX NEWS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14125.ts
+#EXTINF:-1 tvg-name="USA: FOX NEWS Low BW" group-title="USA",USA: FOX NEWS Low BW
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50404.ts
+#EXTINF:-1 tvg-name="USA: FOX WEATHER" group-title="USA",USA: FOX WEATHER
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60095.ts
+#EXTINF:-1 tvg-name="USA: FREE SPEECH TV" group-title="USA",USA: FREE SPEECH TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59685.ts
+#EXTINF:-1 tvg-name="USA: FREEFORM HD" group-title="USA",USA: FREEFORM HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19264.ts
+#EXTINF:-1 tvg-name="USA: FUSE" group-title="USA",USA: FUSE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20874.ts
+#EXTINF:-1 tvg-name="USA: FX HD" group-title="USA",USA: FX HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14172.ts
+#EXTINF:-1 tvg-name="USA: FXM" group-title="USA",USA: FXM
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16487.ts
+#EXTINF:-1 tvg-name="USA: FXX" group-title="USA",USA: FXX
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14171.ts
+#EXTINF:-1 tvg-name="USA: FYI NETWORK" group-title="USA",USA: FYI NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20878.ts
+#EXTINF:-1 tvg-name="USA: GAC FAMILY" group-title="USA",USA: GAC FAMILY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48244.ts
+#EXTINF:-1 tvg-name="USA: GALAVISION" group-title="USA",USA: GALAVISION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23361.ts
+#EXTINF:-1 tvg-name="USA: GAME SHOW NETWORK" group-title="USA",USA: GAME SHOW NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19335.ts
+#EXTINF:-1 tvg-name="USA: GET TV" group-title="USA",USA: GET TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41932.ts
+#EXTINF:-1 tvg-name="USA: GRIT TV" group-title="USA",USA: GRIT TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37909.ts
+#EXTINF:-1 tvg-name="USA: HALLMARK Family" group-title="USA",USA: HALLMARK Family
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37561.ts
+#EXTINF:-1 tvg-name="USA: HALLMARK HD" group-title="USA",USA: HALLMARK HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14064.ts
+#EXTINF:-1 tvg-name="USA: HALLMARK Mystery" group-title="USA",USA: HALLMARK Mystery
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19326.ts
+#EXTINF:-1 tvg-name="USA: HEROES & ICONS" group-title="USA",USA: HEROES & ICONS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29890.ts
+#EXTINF:-1 tvg-name="USA: HGTV FHD" group-title="USA",USA: HGTV FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14169.ts
+#EXTINF:-1 tvg-name="USA: HGTV HD" group-title="USA",USA: HGTV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32923.ts
+#EXTINF:-1 tvg-name="USA: Hi-Yah!" group-title="USA",USA: Hi-Yah!
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61831.ts
+#EXTINF:-1 tvg-name="USA: HISTORY CHANNEL" group-title="USA",USA: HISTORY CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14159.ts
+#EXTINF:-1 tvg-name="USA: HISTORY CHANNEL FHD" group-title="USA",USA: HISTORY CHANNEL FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32930.ts
+#EXTINF:-1 tvg-name="USA: HLN" group-title="USA",USA: HLN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19552.ts
+#EXTINF:-1 tvg-name="USA: HSN" group-title="USA",USA: HSN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29910.ts
+#EXTINF:-1 tvg-name="USA: HSN 2" group-title="USA",USA: HSN 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44298.ts
+#EXTINF:-1 tvg-name="USA: IFC" group-title="USA",USA: IFC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/30089.ts
+#EXTINF:-1 tvg-name="USA: INFOWARS / ALEX JONES NETWORK" group-title="USA",USA: INFOWARS / ALEX JONES NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39479.ts
+#EXTINF:-1 tvg-name="USA: INSP" group-title="USA",USA: INSP
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41043.ts
+#EXTINF:-1 tvg-name="USA: INVESTIGATION DISCOVERY FHD" group-title="USA",USA: INVESTIGATION DISCOVERY FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14167.ts
+#EXTINF:-1 tvg-name="USA: INVESTIGATION DISCOVERY HD" group-title="USA",USA: INVESTIGATION DISCOVERY HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31091.ts
+#EXTINF:-1 tvg-name="USA: Ion MYSTERY" group-title="USA",USA: Ion MYSTERY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50303.ts
+#EXTINF:-1 tvg-name="USA: ION TV" group-title="USA",USA: ION TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/26777.ts
+#EXTINF:-1 tvg-name="USA: LAFF TV" group-title="USA",USA: LAFF TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37917.ts
+#EXTINF:-1 tvg-name="USA: LAW & CRIME" group-title="USA",USA: LAW & CRIME
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/54404.ts
+#EXTINF:-1 tvg-name="USA: LIFETIME" group-title="USA",USA: LIFETIME
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14160.ts
+#EXTINF:-1 tvg-name="USA: LIFETIME MOVIES" group-title="USA",USA: LIFETIME MOVIES
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19591.ts
+#EXTINF:-1 tvg-name="USA: LOGO TV" group-title="USA",USA: LOGO TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43134.ts
+#EXTINF:-1 tvg-name="USA: MAGNOLIA NETWORK HD" group-title="USA",USA: MAGNOLIA NETWORK HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19327.ts
+#EXTINF:-1 tvg-name="USA: ME TV" group-title="USA",USA: ME TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/34893.ts
+#EXTINF:-1 tvg-name="USA: METV Plus" group-title="USA",USA: METV Plus
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59394.ts
+#EXTINF:-1 tvg-name="USA: METV TOONS" group-title="USA",USA: METV TOONS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59222.ts
+#EXTINF:-1 tvg-name="USA: MILITARY HISTORY" group-title="USA",USA: MILITARY HISTORY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48247.ts
+#EXTINF:-1 tvg-name="USA: MOVIES!" group-title="USA",USA: MOVIES!
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48271.ts
+#EXTINF:-1 tvg-name="USA: MS NOW" group-title="USA",USA: MS NOW
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23328.ts
+#EXTINF:-1 tvg-name="USA: MTV HD" group-title="USA",USA: MTV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14096.ts
+#EXTINF:-1 tvg-name="USA: MTV LIVE" group-title="USA",USA: MTV LIVE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21767.ts
+#EXTINF:-1 tvg-name="USA: MTV2" group-title="USA",USA: MTV2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/30123.ts
+#EXTINF:-1 tvg-name="USA: MY 9" group-title="USA",USA: MY 9
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32047.ts
+#EXTINF:-1 tvg-name="USA: NAT GEO USA" group-title="USA",USA: NAT GEO USA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19530.ts
+#EXTINF:-1 tvg-name="USA: NAT GEO WILD" group-title="USA",USA: NAT GEO WILD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19555.ts
+#EXTINF:-1 tvg-name="USA: NBC 10 EAST" group-title="USA",USA: NBC 10 EAST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19268.ts
+#EXTINF:-1 tvg-name="USA: NBC 4" group-title="USA",USA: NBC 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37014.ts
+#EXTINF:-1 tvg-name="USA: NBC 4 NY" group-title="USA",USA: NBC 4 NY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20880.ts
+#EXTINF:-1 tvg-name="USA: NBC 4 NY FHD" group-title="USA",USA: NBC 4 NY FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29448.ts
+#EXTINF:-1 tvg-name="USA: NBC News NOW" group-title="USA",USA: NBC News NOW
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60094.ts
+#EXTINF:-1 tvg-name="USA: NBC UNIVERSO" group-title="USA",USA: NBC UNIVERSO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23362.ts
+#EXTINF:-1 tvg-name="USA: NBC WEST KNBC" group-title="USA",USA: NBC WEST KNBC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/47265.ts
+#EXTINF:-1 tvg-name="USA: NEWS 12 BRONX" group-title="USA",USA: NEWS 12 BRONX
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/38705.ts
+#EXTINF:-1 tvg-name="USA: NEWS 12 BROOKLYN" group-title="USA",USA: NEWS 12 BROOKLYN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/38704.ts
+#EXTINF:-1 tvg-name="USA: NEWS 12 CONNECTICUT" group-title="USA",USA: NEWS 12 CONNECTICUT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/38706.ts
+#EXTINF:-1 tvg-name="USA: NEWS 12 LONG ISLAND" group-title="USA",USA: NEWS 12 LONG ISLAND
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31371.ts
+#EXTINF:-1 tvg-name="USA: NEWS 12 NEW JERSEY" group-title="USA",USA: NEWS 12 NEW JERSEY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31370.ts
+#EXTINF:-1 tvg-name="USA: NEWSMAX 2" group-title="USA",USA: NEWSMAX 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59165.ts
+#EXTINF:-1 tvg-name="USA: NEWSMAX TV" group-title="USA",USA: NEWSMAX TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49517.ts
+#EXTINF:-1 tvg-name="USA: NEWSNATION" group-title="USA",USA: NEWSNATION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27663.ts
+#EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS" group-title="USA",USA: ONE AMERICA NEWS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39483.ts
+#EXTINF:-1 tvg-name="USA: OUTDOOR CHANNEL" group-title="USA",USA: OUTDOOR CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22432.ts
+#EXTINF:-1 tvg-name="USA: OUTSIDE TV" group-title="USA",USA: OUTSIDE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37905.ts
+#EXTINF:-1 tvg-name="USA: OVATION" group-title="USA",USA: OVATION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37046.ts
+#EXTINF:-1 tvg-name="USA: OWN NETWORK FHD" group-title="USA",USA: OWN NETWORK FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14136.ts
+#EXTINF:-1 tvg-name="USA: OXYGEN" group-title="USA",USA: OXYGEN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19585.ts
+#EXTINF:-1 tvg-name="USA: PBS" group-title="USA",USA: PBS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14135.ts
+#EXTINF:-1 tvg-name="USA: PBS WLIW 21" group-title="USA",USA: PBS WLIW 21
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32266.ts
+#EXTINF:-1 tvg-name="USA: PIXL" group-title="USA",USA: PIXL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43463.ts
+#EXTINF:-1 tvg-name="USA: POP" group-title="USA",USA: POP
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20881.ts
+#EXTINF:-1 tvg-name="USA: QVC" group-title="USA",USA: QVC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/28265.ts
+#EXTINF:-1 tvg-name="USA: QVC 2" group-title="USA",USA: QVC 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44297.ts
+#EXTINF:-1 tvg-name="USA: RECIPE TV" group-title="USA",USA: RECIPE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49903.ts
+#EXTINF:-1 tvg-name="USA: REELZ" group-title="USA",USA: REELZ
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37670.ts
+#EXTINF:-1 tvg-name="USA: REVOLT" group-title="USA",USA: REVOLT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/36719.ts
+#EXTINF:-1 tvg-name="USA: RFD TV" group-title="USA",USA: RFD TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43416.ts
+#EXTINF:-1 tvg-name="USA: RT NEWS" group-title="USA",USA: RT NEWS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19593.ts
+#EXTINF:-1 tvg-name="USA: Scientology Network" group-title="USA",USA: Scientology Network
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58937.ts
+#EXTINF:-1 tvg-name="USA: SMITHSONIAN CHANNEL" group-title="USA",USA: SMITHSONIAN CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/37904.ts
+#EXTINF:-1 tvg-name="USA: Spectrum News 1 NY" group-title="USA",USA: Spectrum News 1 NY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/54405.ts
+#EXTINF:-1 tvg-name="USA: SPIKE/PARAMOUNT" group-title="USA",USA: SPIKE/PARAMOUNT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14166.ts
+#EXTINF:-1 tvg-name="USA: SPORTSMAN CHANNEL" group-title="USA",USA: SPORTSMAN CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32137.ts
+#EXTINF:-1 tvg-name="USA: START TV" group-title="USA",USA: START TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41302.ts
+#EXTINF:-1 tvg-name="USA: SUNDANCE" group-title="USA",USA: SUNDANCE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21131.ts
+#EXTINF:-1 tvg-name="USA: SYFY" group-title="USA",USA: SYFY
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14164.ts
+#EXTINF:-1 tvg-name="USA: TASTEMADE" group-title="USA",USA: TASTEMADE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59168.ts
+#EXTINF:-1 tvg-name="USA: TASTEMADE HOME" group-title="USA",USA: TASTEMADE HOME
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59167.ts
+#EXTINF:-1 tvg-name="USA: TASTEMADE TRAVEL" group-title="USA",USA: TASTEMADE TRAVEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59169.ts
+#EXTINF:-1 tvg-name="USA: TBN Trinity Broadcasting Network" group-title="USA",USA: TBN Trinity Broadcasting Network
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/30116.ts
+#EXTINF:-1 tvg-name="USA: TBS" group-title="USA",USA: TBS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14134.ts
+#EXTINF:-1 tvg-name="USA: TCM" group-title="USA",USA: TCM
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14163.ts
+#EXTINF:-1 tvg-name="USA: TELEMUNDO" group-title="USA",USA: TELEMUNDO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23368.ts
+#EXTINF:-1 tvg-name="USA: THE COWBOY CHANNEL" group-title="USA",USA: THE COWBOY CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43132.ts
+#EXTINF:-1 tvg-name="USA: THE CW - KTLA 5" group-title="USA",USA: THE CW - KTLA 5
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41971.ts
+#EXTINF:-1 tvg-name="USA: THE CW - LAS VEGAS" group-title="USA",USA: THE CW - LAS VEGAS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19963.ts
+#EXTINF:-1 tvg-name="USA: THE CW - PHILLY WPSG" group-title="USA",USA: THE CW - PHILLY WPSG
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43122.ts
+#EXTINF:-1 tvg-name="USA: THE CW - PIX 11 (WPIX)" group-title="USA",USA: THE CW - PIX 11 (WPIX)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29447.ts
+#EXTINF:-1 tvg-name="USA: THE GRIO" group-title="USA",USA: THE GRIO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49507.ts
+#EXTINF:-1 tvg-name="USA: THE WEATHER CHANNEL HD" group-title="USA",USA: THE WEATHER CHANNEL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19328.ts
+#EXTINF:-1 tvg-name="USA: The Word Network" group-title="USA",USA: The Word Network
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61833.ts
+#EXTINF:-1 tvg-name="USA: TLC CHANNEL" group-title="USA",USA: TLC CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19772.ts
+#EXTINF:-1 tvg-name="USA: TNT" group-title="USA",USA: TNT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14162.ts
+#EXTINF:-1 tvg-name="USA: TRAVEL CHANNEL" group-title="USA",USA: TRAVEL CHANNEL
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/18500.ts
+#EXTINF:-1 tvg-name="USA: TRU TV" group-title="USA",USA: TRU TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/18368.ts
+#EXTINF:-1 tvg-name="USA: TV LAND HD" group-title="USA",USA: TV LAND HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19461.ts
+#EXTINF:-1 tvg-name="USA: TVONE" group-title="USA",USA: TVONE
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/25258.ts
+#EXTINF:-1 tvg-name="USA: UNIMAS" group-title="USA",USA: UNIMAS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23359.ts
+#EXTINF:-1 tvg-name="USA: UNIVISION" group-title="USA",USA: UNIVISION
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/23360.ts
+#EXTINF:-1 tvg-name="USA: USA NETWORK" group-title="USA",USA: USA NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19270.ts
+#EXTINF:-1 tvg-name="USA: VH1 HD" group-title="USA",USA: VH1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14091.ts
+#EXTINF:-1 tvg-name="USA: VICE TV" group-title="USA",USA: VICE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20883.ts
+#EXTINF:-1 tvg-name="USA: WE TV" group-title="USA",USA: WE TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22431.ts
+#EXTINF:-1 tvg-name="USA: WEST NETWORK" group-title="USA",USA: WEST NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61671.ts
+#EXTINF:-1 tvg-name="USA: WORLD FISHING NETWORK" group-title="USA",USA: WORLD FISHING NETWORK
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32136.ts
+
+## UK SPORTS CHANNELS ##
+
+#EXTINF:-1 tvg-name="BEIN SPORTS Premium 1 HD" group-title="UK SPORTS",BEIN SPORTS Premium 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14109.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Premium 2 HD" group-title="UK SPORTS",BEIN SPORTS Premium 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14108.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Premium 3 HD" group-title="UK SPORTS",BEIN SPORTS Premium 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14107.ts
+#EXTINF:-1 tvg-name="EN- BEIN SPORTS 1 EN HD" group-title="UK SPORTS",EN- BEIN SPORTS 1 EN HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58757.ts
+#EXTINF:-1 tvg-name="EN- BEIN SPORTS 2 EN HD" group-title="UK SPORTS",EN- BEIN SPORTS 2 EN HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58758.ts
+#EXTINF:-1 tvg-name="PDC DARTS (Live Events Only)" group-title="UK SPORTS",PDC DARTS (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59570.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 1 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 1 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40869.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 2 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 2 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40870.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 3 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 3 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59564.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 4 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 4 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59565.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 5 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 5 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59566.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 6 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 6 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59567.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 7 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 7 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59568.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 8 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 8 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59569.ts
+#EXTINF:-1 tvg-name="SSP - Action / NFL 50FPS FHD" group-title="UK SPORTS",SSP - Action / NFL 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58919.ts
+#EXTINF:-1 tvg-name="SSP - ACTION USA" group-title="UK SPORTS",SSP - ACTION USA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16569.ts
+#EXTINF:-1 tvg-name="SSP - ACTION USA HD" group-title="UK SPORTS",SSP - ACTION USA HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16561.ts
+#EXTINF:-1 tvg-name="SSP - Cricket 50FPS FHD" group-title="UK SPORTS",SSP - Cricket 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58921.ts
+#EXTINF:-1 tvg-name="SSP - CRICKET HD" group-title="UK SPORTS",SSP - CRICKET HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/25581.ts
+#EXTINF:-1 tvg-name="SSP - F1 50FPS FHD" group-title="UK SPORTS",SSP - F1 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58920.ts
+#EXTINF:-1 tvg-name="SSP - F1 HD" group-title="UK SPORTS",SSP - F1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16558.ts
+#EXTINF:-1 tvg-name="SSP - Football 50FPS" group-title="UK SPORTS",SSP - Football 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58923.ts
+#EXTINF:-1 tvg-name="SSP - FOOTBALL HD" group-title="UK SPORTS",SSP - FOOTBALL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48551.ts
+#EXTINF:-1 tvg-name="SSP - GOLF" group-title="UK SPORTS",SSP - GOLF
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16568.ts
+#EXTINF:-1 tvg-name="SSP - Golf 50FPS" group-title="UK SPORTS",SSP - Golf 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58922.ts
+#EXTINF:-1 tvg-name="SSP - GOLF HD" group-title="UK SPORTS",SSP - GOLF HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16560.ts
+#EXTINF:-1 tvg-name="SSP - MAIN EVENT" group-title="UK SPORTS",SSP - MAIN EVENT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16571.ts
+#EXTINF:-1 tvg-name="SSP - Main Event 50FPS" group-title="UK SPORTS",SSP - Main Event 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58925.ts
+#EXTINF:-1 tvg-name="SSP - MAIN EVENT HD" group-title="UK SPORTS",SSP - MAIN EVENT HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16563.ts
+#EXTINF:-1 tvg-name="SSP - Mix 50FPS FHD" group-title="UK SPORTS",SSP - Mix 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58917.ts
+#EXTINF:-1 tvg-name="SSP - MIX HD" group-title="UK SPORTS",SSP - MIX HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16573.ts
+#EXTINF:-1 tvg-name="SSP - News 50FPS FHD" group-title="UK SPORTS",SSP - News 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58915.ts
+#EXTINF:-1 tvg-name="SSP - NEWS HD" group-title="UK SPORTS",SSP - NEWS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16572.ts
+#EXTINF:-1 tvg-name="SSP - PLUS 50FPS FHD" group-title="UK SPORTS",SSP - PLUS 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58918.ts
+#EXTINF:-1 tvg-name="SSP - PLUS HD" group-title="UK SPORTS",SSP - PLUS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16566.ts
+#EXTINF:-1 tvg-name="SSP - PREMIER LEAGUE - HD" group-title="UK SPORTS",SSP - PREMIER LEAGUE - HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16559.ts
+#EXTINF:-1 tvg-name="SSP - Premier League 50 FPS" group-title="UK SPORTS",SSP - Premier League 50 FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58924.ts
+#EXTINF:-1 tvg-name="SSP - Racing 50FPS FHD" group-title="UK SPORTS",SSP - Racing 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58916.ts
+#EXTINF:-1 tvg-name="SSP - RACING HD" group-title="UK SPORTS",SSP - RACING HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39908.ts
+#EXTINF:-1 tvg-name="SSP - TENNIS HD" group-title="UK SPORTS",SSP - TENNIS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59174.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 1 HD" group-title="UK SPORTS",TNT SPORTS 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16552.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 1 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 1 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43128.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD" group-title="UK SPORTS",TNT SPORTS 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16551.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 2 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43126.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD" group-title="UK SPORTS",TNT SPORTS 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16550.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 3 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43124.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD" group-title="UK SPORTS",TNT SPORTS 4 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16549.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 4 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57420.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 05" group-title="UK SPORTS",TNT SPORTS EXTRA 05
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/38151.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 06" group-title="UK SPORTS",TNT SPORTS EXTRA 06
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16548.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 07" group-title="UK SPORTS",TNT SPORTS EXTRA 07
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16547.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 08" group-title="UK SPORTS",TNT SPORTS EXTRA 08
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16546.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 09" group-title="UK SPORTS",TNT SPORTS EXTRA 09
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16545.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 10" group-title="UK SPORTS",TNT SPORTS EXTRA 10
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57171.ts
+#EXTINF:-1 tvg-name="TNT Sports Ultimate 4K" group-title="UK SPORTS",TNT Sports Ultimate 4K
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60102.ts
+#EXTINF:-1 tvg-name="UK: LA LIGA TV" group-title="UK SPORTS",UK: LA LIGA TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/47761.ts
+#EXTINF:-1 tvg-name="UK: LFC TV" group-title="UK SPORTS",UK: LFC TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27741.ts
+#EXTINF:-1 tvg-name="UK: MUTV" group-title="UK SPORTS",UK: MUTV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27727.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 1 50FPS FHD" group-title="UK SPORTS",UK: Premier Sport 1 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58928.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 1 HD" group-title="UK SPORTS",UK: Premier Sport 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59141.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 2 50FPS FHD" group-title="UK SPORTS",UK: Premier Sport 2 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58927.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 2 HD" group-title="UK SPORTS",UK: Premier Sport 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59142.ts
+#EXTINF:-1 tvg-name="UK: Racing TV" group-title="UK SPORTS",UK: Racing TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22419.ts
+#EXTINF:-1 tvg-name="UK: RACING TV HD" group-title="UK SPORTS",UK: RACING TV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/28011.ts
+#EXTINF:-1 tvg-name="UK: Viaplay SPORTS 1 HD" group-title="UK SPORTS",UK: Viaplay SPORTS 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20642.ts
+#EXTINF:-1 tvg-name="UK: Viaplay SPORTS 2 HD" group-title="UK SPORTS",UK: Viaplay SPORTS 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41938.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 1" group-title="UK SPORTS",UKUHD: SSP 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59262.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 2" group-title="UK SPORTS",UKUHD: SSP 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59263.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP F1" group-title="UK SPORTS",UKUHD: SSP F1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59264.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP Main Event" group-title="UK SPORTS",UKUHD: SSP Main Event
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59265.ts
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" group-title="UK SPORTS",WILLOW CRICKET HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31092.ts
